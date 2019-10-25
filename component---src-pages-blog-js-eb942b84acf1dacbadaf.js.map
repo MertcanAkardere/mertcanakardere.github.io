@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/blog.js"],"names":["BlogPage"],"mappings":"0FAAA,2BAYeA,UAVE,kBAEjB","file":"component---src-pages-blog-js-eb942b84acf1dacbadaf.js","sourcesContent":["import React from 'react'\r\n\r\nconst BlogPage = () => (\r\n\r\n<h1>\r\nChiv's Blog\r\n</h1>\r\n\r\n\r\n\r\n)\r\n\r\nexport default BlogPage\r\n"],"sourceRoot":""}

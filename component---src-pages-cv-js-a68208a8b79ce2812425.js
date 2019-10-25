@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{218:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),c=a(214),d=a(213);t.default=function(){return r.a.createElement(c.a,null,r.a.createElement(d.a,{title:"CV"}),r.a.createElement("embed",{src:"https://res.cloudinary.com/chiv/image/upload/v1570492569/pdfs/CV_MertcanAkardere_dssgh5.pdf",width:"800px",height:"2100px"}))}}}]);
+//# sourceMappingURL=component---src-pages-cv-js-a68208a8b79ce2812425.js.map
